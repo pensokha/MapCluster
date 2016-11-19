@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LoadInteractiveTest</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="error_code">"Error code "</string>
+    <string name="download_failed">"Download failed: "</string>
+    <string name="establishment_image">Establishment Image</string>
+
+    <string name="name_text">Name:&#160;</string>
+    <string name="phone_text">Phone:&#160;</string>
+    <string name="address_text">Address:&#160;</string>
+    <string name="description_text">Description</string>
+    <string name="menu_refresh">Refresh</string>
+
+</resources>

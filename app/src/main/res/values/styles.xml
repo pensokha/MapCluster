@@ -1,0 +1,23 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+
+
+    <style name="AppTheme.Material" parent="Theme.AppCompat.Light">
+        <item name="colorPrimary">@color/color_material_blue</item>
+        <item name="colorPrimaryDark">@color/color_material_blue_dark</item>
+        <item name="colorAccent">@color/color_material_blue</item>
+        <item name="android:windowBackground">@color/white</item>
+        <item name="colorControlNormal">@color/iron</item>
+        <item name="colorControlActivated">@color/white</item>
+        <item name="colorControlHighlight">@color/white</item>
+        <item name="android:textColorHint">@color/iron</item>
+        <item name="android:statusBarColor" tools:targetApi="lollipop">@color/color_material_blue_dark</item>
+        <item name="android:navigationBarColor" tools:targetApi="lollipop">@color/color_material_blue_dark</item>
+    </style>
+
+    <style name="AppTheme.Material.NoActionBar" parent="AppTheme.Material">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+</resources>
